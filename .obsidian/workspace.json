@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "The Circle of Fifths.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "The Circle of Fifths"
             }
           }
         ]
@@ -140,8 +140,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d50308c725ee2b42",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,11 +167,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "vim-toggle:Toggle Vim Mode": false
     }
   },
   "active": "d1f019ca087fa3ce",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Attachments/Screenshot 2024-12-31 at 12.49.55.png",
+    "Attachments",
+    "The Circle of Fifths.md"
   ]
 }
