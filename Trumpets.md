@@ -1,0 +1,1 @@
+- I think they can double voice track, but in higher pitch? It worked in Homemade Lemonade?

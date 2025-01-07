@@ -1,0 +1,3 @@
+- It could be bass and lead
+	- However, bass can play some parts of melody while lead is resting
+	- You could also use pan to distribute both of them on deifferent sides, it would sound cool
