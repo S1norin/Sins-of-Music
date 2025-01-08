@@ -45,7 +45,7 @@
 - Sounds like an `epic, open sound chord`
 - Resolves to the tonic
 
-# Flat `III`
+# Flat `iii`
 - Sound like a blues, since we use a chord from minor scale in major scale
 
 # Flat `VI`
